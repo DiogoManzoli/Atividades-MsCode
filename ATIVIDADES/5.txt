@@ -1,0 +1,29 @@
+
+Comentário: Abaixo segue o código sql que desenvolvi para a respota da quinta atividade.
+
+
+
+
+CREATE DATABASE alunos;
+USE despesas;
+CREATE TABLE despesas(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+titulo VARCHAR(255) NOT NULL,
+pagamento DATE,
+valor INT
+    );
+
+
+
+USE alunos;
+INSERT INTO despesas(titulo,pagamento,valor) VALUES('canetas','2019-07-05','180'),('notebook',' 2019-07-01','1200'),( 'macbook', '2019-07-02' , '2100'),( 'microfone', '2019-07-05' ,'90'),('matricula alura ', '2019-07-09','900'),('gasolina reembolso diretor',' 2019-06-10','200 ')
+          
+
+
+SELECT * FROM despesas;       
+                         
+                            
+          
+                            
+                                             
+                            

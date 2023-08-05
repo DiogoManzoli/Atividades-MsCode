@@ -1,0 +1,18 @@
+
+str_contains: usada para verificar se tem um determinado caractere em uma string.
+
+sort: usada para deixar a array em ordem crescente.
+
+rsort: usada para deixar a array em ordem decrescente.
+
+max: usada para pegar o maior valor de uma array.
+
+min: usada para pegar o menor valor de uma array.
+
+Já tinha ouvido falar: A sort tem uma função parecida no js, random_int pelo que eu já pesquisei é uma das melhores para gerar número aleatório.
+
+
+
+Relembrei de como criar condicionais dentro de loops para escolher valores específicos dentro de uma array, usando especiamente o foreach.
+
+Relembrei também que o "return;", para o código no lugar que foi escrito.
