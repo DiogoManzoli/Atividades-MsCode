@@ -9,6 +9,8 @@ max: usada para pegar o maior valor de uma array.
 
 min: usada para pegar o menor valor de uma array.
 
+sizeof: usada para pegar a quantidade de elementos em uma array.
+
 Já tinha ouvido falar: A sort tem uma função parecida no js, random_int pelo que eu já pesquisei é uma das melhores para gerar número aleatório.
 
 
